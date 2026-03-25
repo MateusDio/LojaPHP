@@ -4,9 +4,9 @@ class Database {
 
     // Dados de conexão
     private $host = "localhost";
-    private $db   = "loja";
+    private $db   = "projeto_loja";
     private $user = "root";
-    private $pass = ""; // No XAMPP padrão, root não tem senha
+    private $pass = ""; 
 
     private $conn;
 
